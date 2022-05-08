@@ -1,0 +1,11 @@
+制作github.io学术版个人主页
+github
+Reference&Template：
+https://github.com/academicpages/academicpages.github.io
+
+Step：
+参照template的instruction，将项目fork到自己这边
+在setting里边重命名这个项目（要想最后网页名字不奇怪，就得用github username才行）
+修改 _config.yml 里的url和repository
+等一会儿理论上就能在那个url看到东西了，默认是一些guide
+可以根据guide，去_data/navigation.yml 设置top menu，并且对每个栏目的内容进行修改（首页内容在_pages/about.md里）
